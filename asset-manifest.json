@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.78fa9651.chunk.css",
-    "main.js": "/static/js/main.8038021c.chunk.js",
-    "main.js.map": "/static/js/main.8038021c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d683be26.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d683be26.js.map",
-    "static/css/2.d88ce3aa.chunk.css": "/static/css/2.d88ce3aa.chunk.css",
-    "static/js/2.daf5060c.chunk.js": "/static/js/2.daf5060c.chunk.js",
-    "static/js/2.daf5060c.chunk.js.map": "/static/js/2.daf5060c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ce25d68def78d530600a2eb10289dd85.js": "/precache-manifest.ce25d68def78d530600a2eb10289dd85.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.d88ce3aa.chunk.css.map": "/static/css/2.d88ce3aa.chunk.css.map",
-    "static/css/main.78fa9651.chunk.css.map": "/static/css/main.78fa9651.chunk.css.map",
-    "static/js/2.daf5060c.chunk.js.LICENSE.txt": "/static/js/2.daf5060c.chunk.js.LICENSE.txt"
+    "main.css": "/online-gpg-live/static/css/main.78fa9651.chunk.css",
+    "main.js": "/online-gpg-live/static/js/main.522424d2.chunk.js",
+    "main.js.map": "/online-gpg-live/static/js/main.522424d2.chunk.js.map",
+    "runtime-main.js": "/online-gpg-live/static/js/runtime-main.55972adf.js",
+    "runtime-main.js.map": "/online-gpg-live/static/js/runtime-main.55972adf.js.map",
+    "static/css/2.d88ce3aa.chunk.css": "/online-gpg-live/static/css/2.d88ce3aa.chunk.css",
+    "static/js/2.a533c9c2.chunk.js": "/online-gpg-live/static/js/2.a533c9c2.chunk.js",
+    "static/js/2.a533c9c2.chunk.js.map": "/online-gpg-live/static/js/2.a533c9c2.chunk.js.map",
+    "index.html": "/online-gpg-live/index.html",
+    "precache-manifest.9d642ea470eca2933d10b2ee348b4ba6.js": "/online-gpg-live/precache-manifest.9d642ea470eca2933d10b2ee348b4ba6.js",
+    "service-worker.js": "/online-gpg-live/service-worker.js",
+    "static/css/2.d88ce3aa.chunk.css.map": "/online-gpg-live/static/css/2.d88ce3aa.chunk.css.map",
+    "static/css/main.78fa9651.chunk.css.map": "/online-gpg-live/static/css/main.78fa9651.chunk.css.map",
+    "static/js/2.a533c9c2.chunk.js.LICENSE.txt": "/online-gpg-live/static/js/2.a533c9c2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d683be26.js",
+    "static/js/runtime-main.55972adf.js",
     "static/css/2.d88ce3aa.chunk.css",
-    "static/js/2.daf5060c.chunk.js",
+    "static/js/2.a533c9c2.chunk.js",
     "static/css/main.78fa9651.chunk.css",
-    "static/js/main.8038021c.chunk.js"
+    "static/js/main.522424d2.chunk.js"
   ]
 }
